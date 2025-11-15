@@ -1,9 +1,10 @@
 img {
-    width:  200px
+    width:  1000px
 }
 body {
     text-align: center;
     font-family: 'Arial';
-    background: #00FF00;
-    colour: green;
+    font-size: x-large;
+    background: #FEDB35;
+    color: rgb(0, 0, 0)
 }
